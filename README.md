@@ -2,13 +2,15 @@
 My personal information
 
 
-I am Andres Eduardo Babilonia Torres, I am form Colombia.
+Hello there 👋🏼 
+I am Andres Eduardo Babilonia Torres, I am from Colombia.
 
-I am enviromental engenier, I loves the Tech. I want be a Developer too.
+I am enviromental engenier ♻, I loves the Tech. I want be a Developer too. 💻
 
 
 My personal project
 
+Sorry but this project still empyty
 [File Manager](https://github.com/AndresBabiloniaGISAmbiental/file-manager)
 
 
